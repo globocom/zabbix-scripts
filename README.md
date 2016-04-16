@@ -30,7 +30,11 @@ Read [requirements.txt](docs/requirements.md) for more info.
 
 [zbx_deleteMonitors.py](docs/zbx_deleteMonitors.md)
 
+[zbx_discovery-manager.py](docs/zbx_discovery-manager.md)
+
 [zbx_historyGet.py](docs/zbx_historyGet.md)
 
 [zbx_hostgroupOrganizer.py](docs/zbx_hostgroupOrganizer.md)
 
+# Todo
+> Improve docs
