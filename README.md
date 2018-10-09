@@ -1,4 +1,4 @@
-# zabbix-scripts
+# Zabbix Scripts
 
 A collection of scripts to ease Zabbix administration
 
