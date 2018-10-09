@@ -1,15 +1,13 @@
-==============
-zabbix-scripts
-==============
+# zabbix-scripts
 
 A collection of scripts to ease Zabbix administration
 
-# Free software
+## Free software
 > BSD license
 
 This repo contains scripts and their documentation in regards ease maintenance of Zabbix operation.
 
-# Requisites
+## Requisites
 Its recommended to work inside a [virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/).
 
 [PIP](https://pip.pypa.io/en/stable/installing/) is also required.
@@ -17,7 +15,7 @@ Its recommended to work inside a [virtualenv](http://docs.python-guide.org/en/la
 Read [requirements.txt](docs/requirements.md) for more info.
 
 
-# Docs
+## Docs
 [requirements.txt](docs/requirements.md)
 
 [zbx_changeMultipleTriggers.py](docs/zbx_changeMultipleTriggers.md)
@@ -36,5 +34,5 @@ Read [requirements.txt](docs/requirements.md) for more info.
 
 [zbx_hostgroupOrganizer.py](docs/zbx_hostgroupOrganizer.md)
 
-# Todo
+## Todo
 > Improve docs
