@@ -1,4 +1,12 @@
 #!/usr/bin/python
+"""
+Copyright (c) 2018.
+
+This file is part of globocom/zabbix-scripts
+(see https://github.com/globocom/zabbix-scripts).
+
+License: 3-clause BSD, see https://opensource.org/licenses/BSD-3-Clause
+"""
 from os import path
 from sys import argv, exit
 from pyzabbix import ZabbixAPI
