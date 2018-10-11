@@ -1,8 +1,6 @@
 BSD 3-Clause License
 
-Copyright (c) 2018, by the contributors on GitHub
-https://github.com/globocom/zabbix-scripts
-All rights reserved.
+Copyright (c) 2016, [Globo.com](https://github.com/globocom) and the [contributors on GitHub](https://github.com/globocom/zabbix-scripts) All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
