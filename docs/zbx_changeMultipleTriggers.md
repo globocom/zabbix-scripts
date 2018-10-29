@@ -17,8 +17,8 @@ optional arguments:
   --password PASSWORD  Zabbix password
   --no-verbose         Dont show any logs on screen
   --verbose
-  --no-run             Work
-  --run                Dont perform any operation
+  --no-run             Dont perform any operation
+  --run                Work
   --status STATUS      Status to change trigger to. [0|1]
   --loglevel LOGLEVEL  Debug level. DEBUG/INFO/WARNING/ERROR/CRITICAL
 ```
