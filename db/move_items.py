@@ -1,5 +1,9 @@
 #!/bin/env python
 #from __future__ import print_function
+# Copyright (c) 2016, Globo.com <https://github.com/globocom>
+# This file is part of globocom/zabbix-scripts
+# (see https://github.com/globocom/zabbix-scripts).
+# License: 3-clause BSD, see https://opensource.org/licenses/BSD-3-Clause
 import pymysql,sys,os,json
 from pyzabbix import ZabbixAPI
 from argparse import ArgumentParser
