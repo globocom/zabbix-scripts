@@ -17,4 +17,4 @@ Thumbs.db
 *.pyc
 *.pyo
 scripts/tmp
-.idea
+.idea/
