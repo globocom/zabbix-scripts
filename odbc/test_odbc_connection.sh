@@ -15,6 +15,8 @@ prep_arq()
 
     sed -i 's/\]//' $file
     sed -i 's/\[//' $file
+
+    echo "quit" > /tmp/quit.sql
 }
 
 
