@@ -2,5 +2,5 @@ logprint==0.1.1
 netdiscovery==0.2.1
 progressbar==2.3
 pyzabbix==0.7.3
-requests==2.7.0
+requests==2.20.0
 wsgiref==0.1.2
